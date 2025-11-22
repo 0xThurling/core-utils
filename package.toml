@@ -1,0 +1,4 @@
+[project]
+name = "core-utils"
+type = "executable"
+install_headers = false
